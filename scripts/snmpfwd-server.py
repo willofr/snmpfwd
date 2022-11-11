@@ -3,7 +3,7 @@
 # This file is part of snmpfwd software.
 #
 # Copyright (c) 2014-2019, Ilya Etingof <etingof@gmail.com>
-# License: http://snmplabs.com/snmpfwd/license.html
+# License: https://www.pysnmp.com/snmpfwd/license.html
 #
 import os
 import sys
@@ -516,7 +516,7 @@ Synopsis:
   and matching them against proxy rules.
 
 Documentation:
-  http://snmplabs.com/snmpfwd/
+  https://www.pysnmp.com/snmpfwd/
 
 %s
 """ % helpMessage)
@@ -529,7 +529,7 @@ Documentation:
 SNMP Proxy Forwarder version %s, written by Ilya Etingof <etingof@gmail.com>
 Using foundation libraries: pysnmp %s, pyasn1 %s.
 Python interpreter: %s
-Software documentation and support at http://snmplabs.com/snmpfwd/
+Software documentation and support at https://www.pysnmp.com/snmpfwd/
 %s
 """ % (snmpfwd.__version__, hasattr(pysnmp, '__version__') and pysnmp.__version__ or 'unknown',
                hasattr(pyasn1, '__version__') and pyasn1.__version__ or 'unknown', sys.version, helpMessage))

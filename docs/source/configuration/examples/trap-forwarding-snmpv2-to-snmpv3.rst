@@ -46,7 +46,7 @@ Client is configured to:
 
 * listen on server-mode unencrypted trunk connection
 * place inbound TRAP PDUs into SNMP v3 messages and forward them to public
-  SNMP manager running at *demo.snmplabs.com*
+  SNMP manager running at *demo.pysnmp.com*
 
 .. warning::
 

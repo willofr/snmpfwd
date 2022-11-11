@@ -2,7 +2,7 @@
 # This file is part of snmpfwd software.
 #
 # Copyright (c) 2014-2019, Ilya Etingof <etingof@gmail.com>
-# License: http://snmplabs.com/snmpfwd/license.html
+# License: https://www.pysnmp.com/snmpfwd/license.html
 #
 from pyasn1.type import univ, namedtype, namedval
 from pyasn1.codec.ber import encoder, decoder

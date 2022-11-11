@@ -48,7 +48,7 @@ Client is configured to:
 * process all incoming SNMP messages in the same way
 * run command request (and response) PDUs through the *logger* plugin
 * place inbound PDUs into SNMP v2c messages and forward them to public
-  SNMP agent running at *demo.snmplabs.com*
+  SNMP agent running at *demo.pysnmp.com*
 
 .. literalinclude:: /../../conf/command-forwarding-logging/client.conf
 

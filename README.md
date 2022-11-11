@@ -49,9 +49,9 @@ How to use SNMP proxy forwarder
 -------------------------------
 
 First you need to configure the tool. It is largely driven by
-[configuration files](http://snmplabs.com/snmpfwd/configuration/index.html)
+[configuration files](https://www.pysnmp.com/snmpfwd/configuration/index.html)
 written in a declarative mini-language. To help you started, we maintain
-[a collection](http://snmplabs.com/snmpfwd/configuration/index.html#examples)
+[a collection](https://www.pysnmp.com/snmpfwd/configuration/index.html#examples)
 of configuration files designed to serve specific use-cases.
 
 Getting help

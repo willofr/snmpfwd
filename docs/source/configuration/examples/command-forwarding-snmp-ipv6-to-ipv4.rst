@@ -40,7 +40,7 @@ Client is configured to:
 * listen on server-mode unencrypted trunk connection
 * process all incoming SNMP messages in the same way
 * place inbound PDUs into SNMP v2c messages and forward them to public
-  SNMP agent at *demo.snmplabs.com* over IPv4 network
+  SNMP agent at *demo.pysnmp.com* over IPv4 network
 
 .. literalinclude:: /../../conf/command-forwarding-snmp-ipv6-to-ipv4/client.conf
 

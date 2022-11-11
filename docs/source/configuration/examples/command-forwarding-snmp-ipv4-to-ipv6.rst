@@ -17,7 +17,7 @@ You could test this configuration by running:
 
 .. note::
 
-   The example configuration attempt to query public SNMP agent at *demo.snmplabs.com* over
+   The example configuration attempt to query public SNMP agent at *demo.pysnmp.com* over
    IPv6. This might work if global IPv6 routing is available on your local network.
 
 .. toctree::
@@ -45,7 +45,7 @@ Client is configured to:
 * listen on server-mode unencrypted trunk connection
 * process all incoming SNMP messages in the same way
 * place inbound PDUs into SNMP v2c messages and forward them to public
-  SNMP agent at *demo.snmplabs.com* over IPv6 network
+  SNMP agent at *demo.pysnmp.com* over IPv6 network
 
 .. literalinclude:: /../../conf/command-forwarding-snmp-ipv4-to-ipv6/client.conf
 

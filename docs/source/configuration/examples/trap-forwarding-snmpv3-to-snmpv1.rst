@@ -59,7 +59,7 @@ Client is configured to:
 
 * listen on server-mode unencrypted trunk connection
 * place inbound TRAP PDUs into SNMP v1 messages and forward them to public
-  SNMP manager running at *demo.snmplabs.com*
+  SNMP manager running at *demo.pysnmp.com*
 
 .. literalinclude:: /../../conf/trap-forwarding-snmpv3-to-snmpv1/client.conf
 

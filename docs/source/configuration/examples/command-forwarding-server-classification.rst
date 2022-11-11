@@ -35,7 +35,7 @@ Client is configured to:
 * listen on server-mode unencrypted trunk connection
 * process all incoming SNMP messages in the same way
 * route inbound SNMP PDUs into either of two backend
-  SNMP agents (at *demo.snmplabs.com*) chosen based
+  SNMP agents (at *demo.pysnmp.com*) chosen based
   on :ref:`server-classification-id <server-classification-id-client-option>`
   option.
 

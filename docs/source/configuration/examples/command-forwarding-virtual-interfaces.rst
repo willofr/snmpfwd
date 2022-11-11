@@ -41,7 +41,7 @@ Client is configured to:
 * use POSIX *sendmsg()/recvmsg()* calls for the UDP socket by turning on the
   :ref:`virtual-interface <snmp-transport-options-client-option>` option
 * place inbound PDUs into SNMP v2c messages and forward them towards SNMP agent
-  running at *demo.snmplabs.com*
+  running at *demo.pysnmp.com*
 
 .. literalinclude:: /../../conf/command-forwarding-virtual-interfaces/client.conf
 
