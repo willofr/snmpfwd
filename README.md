@@ -4,8 +4,7 @@ SNMP Proxy Forwarder
 
 [![PyPI](https://img.shields.io/pypi/v/snmpfwd.svg?maxAge=2592000)](https://pypi.org/project/snmpfwd)
 [![Python Versions](https://img.shields.io/pypi/pyversions/snmpfwd.svg)](https://pypi.org/project/snmpfwd/)
-[![Build status](https://travis-ci.org/etingof/snmpfwd.svg?branch=master)](https://travis-ci.org/etingof/snmpfwd)
-[![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg)](https://raw.githubusercontent.com/etingof/snmpfwd/master/LICENSE.txt)
+[![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg)](https://raw.githubusercontent.com/lextudio/snmpfwd/master/LICENSE.txt)
 
 The SNMP Proxy Forwarder tool works as an application-level proxy with a built-in
 SNMP message router. SNMP forwarder design features split client/server operation
@@ -43,7 +42,7 @@ Just run:
 $ pip install snmpfwd
 ```
 
-Alternatively, you can get it from [GitHub](https://github.com/etingof/snmpfwd/releases).
+Alternatively, you can get it from [GitHub](https://github.com/lextudio/snmpfwd/releases).
 
 How to use SNMP proxy forwarder
 -------------------------------
@@ -58,9 +57,11 @@ Getting help
 ------------
 
 If something does not work as expected or we are missing an interesting feature,
-[open an issue](https://github.com/etingof/snmpfwd/issues) at GitHub or
+[open an issue](https://github.com/lextudio/pysnmp/issues) at GitHub or
 post your question [on Stack Overflow](https://stackoverflow.com/questions/ask).
 
 Finally, your PRs are warmly welcome! ;-)
 
-Copyright (c) 2014-2019, [Ilya Etingof](mailto:etingof@gmail.com). All rights reserved.
+Copyright (c) 2014-2019, [Ilya Etingof](mailto:etingof@gmail.com).
+Copyright (c) 2022, [LeXtudio Inc.](mailto:support@lextudio.com).
+All rights reserved.
