@@ -74,7 +74,7 @@ except ImportError:
 doclines = [x.strip() for x in (__doc__ or '').split('\n') if x]
 
 params.update(
-    {'name': "snmpfwd",
+    {'name': "snmpfwd-lextudio",
      'version':  open(os.path.join('snmpfwd', '__init__.py')).read().split('\'')[1],
      'description': doclines[0],
      'long_description': ' '.join(doclines[1:]),

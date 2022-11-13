@@ -39,7 +39,7 @@ SNMP Proxy Forwarder software is freely available for download from
 Just run:
 
 ```bash
-$ pip install snmpfwd
+$ pip install snmpfwd-lextudio
 ```
 
 Alternatively, you can get it from [GitHub](https://github.com/lextudio/snmpfwd/releases).

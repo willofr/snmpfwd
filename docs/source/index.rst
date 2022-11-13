@@ -72,7 +72,7 @@ The easiest way to download and install SNMP Proxy Forwarder is via Python `pip`
 
 .. code-block:: bash
 
-   # pip install snmpfwd
+   # pip install snmpfwd-lextudio
 
 Alternatively, you can download the Python package from
 `GitHub repo <https://github.com/lextudio/snmpfwd/releases>`_ and install is manually.
