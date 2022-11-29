@@ -77,7 +77,7 @@ The easiest way to download and install SNMP Proxy Forwarder is via Python `pip`
 Alternatively, you can download the Python package from
 `GitHub repo <https://github.com/lextudio/snmpfwd/releases>`_ and install is manually.
 
-The tool requires Python 2.4 to 2.7 or 3.1 onwards.
+The tool requires Python 3.7 onwards.
 
 Source code
 -----------
