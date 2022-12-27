@@ -2,7 +2,7 @@
 name = "snmpfwd-lextudio"
 version = "0.4.4"
 description = "SNMP Proxy Forwarder can act as an application-level firewall or SNMP protocol translator that let SNMPv1/v2c entities to talk to SNMPv3 ones or vice-versa."
-authors = ["Lex Li <support@lextudio.com>"]
+authors = ["Ilya Etingof <etingof@gmail.com>", "Lex Li <support@lextudio.com>"]
 license = "BSD-2-Clause"
 repository = "https://github.com/lextudio/snmpfwd"
 classifiers = [
