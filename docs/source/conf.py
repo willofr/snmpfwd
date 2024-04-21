@@ -33,7 +33,7 @@ extensions = [
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
     'sphinx_sitemap',
-    'sphinx_copybutton'
+    'sphinx_copybutton',
     "notfound.extension",
 ]
 
