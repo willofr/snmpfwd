@@ -34,7 +34,10 @@ extensions = [
     'sphinx.ext.viewcode',
     'sphinx_sitemap',
     'sphinx_copybutton'
+    "notfound.extension",
 ]
+
+notfound_urls_prefix = "/snmpfwd/"
 
 html_baseurl = 'https://docs.lextudio.com/snmpfwd/'
 sitemap_url_scheme = '{link}'
