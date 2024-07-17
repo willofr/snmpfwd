@@ -2,9 +2,9 @@
 SNMP Proxy Forwarder
 --------------------
 
-[![PyPI](https://img.shields.io/pypi/v/snmpfwd-lextudio.svg?maxAge=2592000)](https://pypi.org/project/snmpfwd-lextudio)
-[![PyPI Downloads](https://img.shields.io/pypi/dd/snmpfwd-lextudio)](https://pypi.python.org/pypi/snmpfwd-lextudio/)
-[![Python Versions](https://img.shields.io/pypi/pyversions/snmpfwd-lextudio.svg)](https://pypi.org/project/snmpfwd-lextudio/)
+[![PyPI](https://img.shields.io/pypi/v/snmpfwd.svg?maxAge=2592000)](https://pypi.org/project/snmpfwd)
+[![PyPI Downloads](https://img.shields.io/pypi/dd/snmpfwd)](https://pypi.python.org/pypi/snmpfwd/)
+[![Python Versions](https://img.shields.io/pypi/pyversions/snmpfwd.svg)](https://pypi.org/project/snmpfwd/)
 [![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg)](https://raw.githubusercontent.com/lextudio/snmpfwd/master/LICENSE.txt)
 
 The SNMP Proxy Forwarder tool works as an application-level proxy with a built-in
@@ -35,12 +35,12 @@ Download & Install
 ------------------
 
 SNMP Proxy Forwarder software is freely available for download from
-[PyPI](https://pypi.org/project/snmpfwd-lextudio).
+[PyPI](https://pypi.org/project/snmpfwd).
 
 Just run:
 
 ```bash
-$ pip install snmpfwd-lextudio
+$ pip install snmpfwd
 ```
 
 Alternatively, you can get it from [GitHub](https://github.com/lextudio/snmpfwd/releases).

@@ -1,4 +1,3 @@
-
 SNMP Proxy Forwarder
 ====================
 
@@ -15,7 +14,7 @@ Key features:
 * Configurable SNMP PDU routing policy
 * Extension modules supporting SNMP PDU filtering and on-the-fly modification
 * Supports transparent proxy operation (Linux only)
-* Works on Linux, Windows and OS X
+* Works on Linux, Windows and macOS
 
 Architecture
 ------------
@@ -72,12 +71,12 @@ The easiest way to download and install SNMP Proxy Forwarder is via Python `pip`
 
 .. code-block:: bash
 
-   # pip install snmpfwd-lextudio
+   # pip install snmpfwd
 
 Alternatively, you can download the Python package from
 `GitHub repo <https://github.com/lextudio/snmpfwd/releases>`_ and install is manually.
 
-The tool requires Python 3.7 onwards.
+The tool requires Python 3.8 onwards.
 
 Source code
 -----------
